@@ -38,7 +38,7 @@ This will add a product to the system.
 Add Customer:
 
 Name: Mohamed Hisham
-Email: mohamed@example.com
+Email: mohamedabnhisham@gmail.com
 Address: 332-Sporting-Alex
 Phone: 1275421502
 This will add a new customer and allow selecting products for the shopping cart.
